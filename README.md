@@ -1,4 +1,4 @@
-Liver Cirrhosis Prediction Using Machine Learning
+**Liver Cirrhosis Prediction Using Machine Learning**
 
 Project Overview:-
 
