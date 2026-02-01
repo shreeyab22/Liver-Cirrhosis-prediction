@@ -1,7 +1,6 @@
 **Liver Cirrhosis Prediction Using Machine Learning**
 
 Project Overview:-
-
 Liver cirrhosis is a chronic and progressive liver disease that causes permanent damage to liver tissues and may lead to life-threatening complications if not diagnosed early. Conventional diagnostic approaches rely on multiple medical tests and expert judgment, which can delay early intervention.
 This project implements a machine learning–based predictive system that analyzes patient clinical data to identify the presence of liver cirrhosis. The goal is to support healthcare professionals with accurate, early, and data-driven predictions.
 
